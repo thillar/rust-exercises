@@ -10,3 +10,7 @@ Personal development log — notes, findings, and ongoing work.
 - Reviewed codebase, identified areas for improvement
 - Updated CI cache strategy
 - Updated license year
+
+## 2026-03-23
+- Added healthcheck endpoint stub
+- Tidied up project structure
